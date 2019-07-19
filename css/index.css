@@ -1,0 +1,21 @@
+h1 {
+    color:red;
+}
+
+p{
+    color:blue;
+
+}
+
+#chosen {
+    text-decoration: underline;
+}
+
+#third {
+    color:yellow
+
+}
+
+.border {
+    border: 1px solid black;
+}
